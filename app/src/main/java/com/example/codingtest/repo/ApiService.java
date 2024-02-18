@@ -7,7 +7,7 @@ import retrofit2.http.Query;
 
 
 public interface ApiService {
-    @GET("3/discover/movie")
+    @GET("discover/movie")
     Call<MovieResponse> discoverMovies(
             @Query("include_adult") boolean includeAdult,
             @Query("include_video") boolean includeVideo,

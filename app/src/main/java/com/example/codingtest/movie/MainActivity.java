@@ -13,6 +13,7 @@ import android.os.Bundle;
 
 import com.example.codingtest.MovieType;
 import com.example.codingtest.R;
+import com.example.codingtest.databinding.ActivityMainBinding;
 import com.example.codingtest.model.Movie;
 import com.example.codingtest.repo.MovieRepository;
 import com.example.codingtest.repo.ApiService;
