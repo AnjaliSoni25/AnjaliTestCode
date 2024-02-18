@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodingTest</string>
+    <string name="popular">Popular</string>
+    <string name="rating">Rating</string>
+</resources>
